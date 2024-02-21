@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background: #FFC0CB;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    font-family: 'Comic Sans MS', fantasy;
+    padding: 15%;
+    color:#FF6961; 
+}
+
+button{
+    font-size: x-large;
+    padding: 0.75em;
+    background-color:#DAF7A6;
+    color: #EB78E2;
+    border-radius:20px; 
+
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}

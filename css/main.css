@@ -49,7 +49,11 @@ body {
   letter-spacing: 10px;
   opacity: 0;
   animation: fadeIn 3s ease-in-out forwards;
-  text-align: center;
+  text-align: center; /* Centrar el texto */
+  margin-top: 0; /* Eliminar margen superior */
+  padding-top: 20px; /* Agregar un poco de espacio arriba si es necesario */
+}
+  /*text-align: center;*/
 }
 @keyframes fadeIn {
   from {

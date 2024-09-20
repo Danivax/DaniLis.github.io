@@ -41,8 +41,9 @@ body {
 }
 .titulo {
   margin-bottom: 180px;
-  font-family: "Arial Narrow", Arial, sans-serif;
-  color: pink;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-weight: bold;
+  color: #87CEEB;
   position: absolute;
   font-weight: bold;
   letter-spacing: 10px;
